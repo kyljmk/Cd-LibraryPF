@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace efCdCollection.Api.Models;
+namespace cdLibrary.Api.Models;
 
 public class Genre
 {

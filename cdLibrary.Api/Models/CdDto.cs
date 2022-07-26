@@ -1,4 +1,4 @@
-namespace efCdCollection.Api.Models;
+namespace cdLibrary.Api.Models;
 
 public class CdDto
 {
